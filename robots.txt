@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ciansver.github.io/sitemap.html.gz
+Sitemap: https://ciansver.github.io/app/sitemap.html.gz
+Sitemap: https://ciansver.github.io/assets/sitemap.html.gz
+Sitemap: https://ciansver.github.io/css/sitemap.html.gz
+Sitemap: https://ciansver.github.io/includes/sitemap.html.gz
+Sitemap: https://ciansver.github.io/item/sitemap.html.gz
+Sitemap: https://ciansver.github.io/src/sitemap.html.gz
